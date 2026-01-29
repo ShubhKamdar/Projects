@@ -47,7 +47,3 @@ End-to-end data engineering project using Databricks Free Edition implementing a
 3. Load/clean small-company dimensions (products/customers/pricing)
 4. Run historical full load
 5. Run incremental pipeline (drop new CSVs into S3 `landing/`)
-
-## Notes
-- This repo contains Databricks notebook exports (.py). Import them into Databricks Workspace to run.
-- Do not commit AWS credentials; use Databricks secrets / instance profile / connector settings.
