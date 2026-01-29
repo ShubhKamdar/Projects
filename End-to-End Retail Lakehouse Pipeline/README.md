@@ -1,4 +1,4 @@
-# FMCG Lakehouse Merger (Databricks Free + S3 + Delta)
+# End-to-End Retail Lakehouse Pipeline (Databricks Free + S3 + Delta)
 
 End-to-end data engineering project using Databricks Free Edition implementing a Lakehouse (Medallion) ETL pipeline in an FMCG M&A scenario where a large retailer acquires a smaller company ("Sportsbar"). The pipeline consolidates data from both companies into a unified lakehouse and serves BI-ready tables.
 
